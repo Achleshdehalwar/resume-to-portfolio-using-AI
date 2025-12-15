@@ -1,4 +1,4 @@
-Portfolio Website Generator
+**Portfolio Website Generator**
 
 A Streamlit-based tool that converts a resume (PDF or DOCX) into a clean, responsive personal portfolio website using HTML, CSS, and JavaScript. The app extracts structured resume content and generates a multi-section static website ready for download.
 
